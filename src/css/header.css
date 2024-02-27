@@ -1,11 +1,13 @@
 .header {
   padding: 20px 0;
+  font-family: DM Sans, sans-serif;
+  font-style: italic;
 }
 
 .nav-list {
   display: flex;
   align-items: center;
-  justify-content: flex-end;
+  justify-content: flex-start;
   gap: 40px;
 }
 
